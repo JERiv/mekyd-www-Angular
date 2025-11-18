@@ -4,6 +4,7 @@
  
 .home-container10 {
   width: 100%;
+  cursor: none;
   display: flex;
   overflow: auto;
   min-height: 100vh;
