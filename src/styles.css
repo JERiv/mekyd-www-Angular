@@ -279,6 +279,16 @@
   text-decoration: none;
 }
  
+.heroText {
+  font-size: 90px;
+  font-style: normal;
+  font-family: "Noto Sans Mono";
+  font-weight: 500;
+  line-height: 108px;
+  text-transform: none;
+  text-decoration: none;
+}
+ 
 
  
 
