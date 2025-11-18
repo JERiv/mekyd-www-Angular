@@ -4,11 +4,11 @@
  
 .home-container10 {
   width: 100%;
-  cursor: none;
   display: flex;
   overflow: auto;
   min-height: 100vh;
   align-items: center;
+  caret-color: transparent;
   flex-direction: column;
   background-color: var(--dl-color-cdyn-dark_blue_grey);
 }
